@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou André Arraes, estudante de Desenvolvimento com foco em Full Stack e apaixonado por tecnologia. Dedico-me ao back-end com Java e ao front-end com HTML, CSS, Tailwind, Bootstrap e JavaScript. Desde 2017, desenvolvo projetos pessoais, como um site de notícias sobre tecnologia, e busco constantemente aprender novas ferramentas e expandir meus conhecimentos. Meu objetivo é crescer profissionalmente e contribuir com soluções inovadoras. Vamos conversar? Estou aberto a novas conexões e oportunidades!</p>
+<p align="left">Sou André Arraes, estudante de Programação com foco em Full Stack e apaixonado por tecnologia. Dedico-me ao back-end com Java e ao front-end com HTML, CSS, Tailwind, Bootstrap e JavaScript. Desde 2017, desenvolvo projetos pessoais, como um site de notícias sobre tecnologia, e busco constantemente aprender novas ferramentas e expandir meus conhecimentos. Meu objetivo é crescer profissionalmente e contribuir com soluções inovadoras. Vamos conversar? Estou aberto a novas conexões e oportunidades!</p>
 
 ###
 
