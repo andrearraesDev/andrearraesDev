@@ -2,6 +2,12 @@
 
 ###
 
+<p align="left">Sou André Arraes, estudante de Desenvolvimento com foco em Full Stack e apaixonado por tecnologia. Dedico-me ao back-end com Java e ao front-end com HTML, CSS, Tailwind, Bootstrap e JavaScript. Desde 2017, desenvolvo projetos pessoais, como um site de notícias sobre tecnologia, e busco constantemente aprender novas ferramentas e expandir meus conhecimentos. Meu objetivo é crescer profissionalmente e contribuir com soluções inovadoras. Vamos conversar? Estou aberto a novas conexões e oportunidades!</p>
+
+###
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrearraesDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
